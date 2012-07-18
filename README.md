@@ -1,6 +1,6 @@
 # ReadMe
 
-This is a dead simple rails example explaining some of the latest goodness to get a decent environment up.
+This is a simple rails example with some of the latest goodness to get a decent environment up.
 
 install [rbenv](https://github.com/sstephenson/rbenv)
 
@@ -14,19 +14,4 @@ add this to your .bash_profile
 
 > export PATH="./.bin:$PATH"
 
-***
-
-The original scaffold for this application was created by [App Scrolls](http://appscrolls.org).
-
-The project was created with the following scrolls:
-
-* capybara
-* rails_basics
-* git
-* github
-* jquery
-* rspec
-* twitter_bootstrap
-* simple_form
-* unicorn
-
+install mongodb (brew will do the trick)
